@@ -8,5 +8,5 @@ Idag har jeg arbejdet og løst trafiklys opgaven. Først blev deisgnet af hvorda
 Projektet kan ses under trafiklys mappen.
 
 29/08:
-Idag lærte vi omkring forskellige typer af input som eksempelvis knapper. Derudover blev vi stillet en opgave hvor vi frit fik lov at vælge en form for input. Her valgte mi ngruppe og jeg at tage en lyssensor som kunne se hvilke farver det hvar ud for sensoren. Derfra lavede vi en klasse hvor man kunne bruge sådan en lyssensor som gav et RGB output hvilket så kan bruges ti lat fidne ud af hvilken farve den ser.
+Idag lærte vi omkring forskellige typer af input som eksempelvis knapper. Derudover blev vi stillet en opgave hvor vi frit fik lov at vælge en form for input. Her valgte mi ngruppe og jeg at tage en lyssensor som kunne se hvilke farver det hvar ud for sensoren. Derfra lavede vi en klasse hvor man kunne bruge sådan en lyssensor som gav et RGB output hvilket så kan bruges til at findee ud af hvilken farve den ser.
 Projektet kan ses under Lyssensor mappen.
