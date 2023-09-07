@@ -17,3 +17,6 @@ Idag lærte vi omkring opsætning af wifi hotspot med en nodemcu. Her lavede vi 
 05/09:
 I dag har vi lært om 3D print. Her er vi blevet introduceret til en ny 3D Printer hvor vi har set den kører og lidt om hvordan den fungere. Derudover er vi gået igang med at bruge openSCAD og JavaCSG. Dette er et program til java hvor man kan skrive java kode som så kan konverteres til openSCAD som kan bruges til at lave 3D modeller som kan printes.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+07/09:
+I dag har vi arbejdet videre med JavaCSG. Vi har arbejdet på at bygge en beholder til en nodeMCU og derefefter selv arbejdet på en beholder til den større version 3 nodeMCU. Deruvoer er vi blevet introduceret til prusa som bruges til at slcie og gøre 3d print klar.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
