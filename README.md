@@ -19,6 +19,8 @@ I dag har vi lært om 3D print. Her er vi blevet introduceret til en ny 3D Print
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 07/09:
 I dag har vi arbejdet videre med JavaCSG. Vi har arbejdet på at bygge en beholder til en nodeMCU og derefefter selv arbejdet på en beholder til den større version 3 nodeMCU. Deruvoer er vi blevet introduceret til prusa som bruges til at slcie og gøre 3d print klar.
+-
+
 ![image](https://github.com/LucasHemm/RoALog/assets/99349701/15d8b589-4c43-4017-a84f-87a75b41e722)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
