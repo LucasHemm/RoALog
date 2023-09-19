@@ -25,3 +25,13 @@ I dag har vi arbejdet videre med JavaCSG. Vi har arbejdet på at bygge en behold
 ![image](https://github.com/LucasHemm/RoALog/assets/99349701/15d8b589-4c43-4017-a84f-87a75b41e722)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12/09:
+Idag er vi blevet introduceret for det fælles semester projekt, nemlig tog projektet. Her skal vi 3D printe en masse dele som skinner,click system, og selve togene. Idag gik vi igang med at udarbejde click systemet. Her brugte vi tid på at i grupper komme med ideer til forskellige click systemer. Til sidst endte vi op med et system som meget har lignet et Tobias tidligere har arbejdet med, som fungere ved at det clicker sammen.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+14/09:
+Idag har vi fortsat arbejdet med Click systemet. Der er blevet lavet kode til click systemet, her der det blevet testet igennem flere iterationer hvor vi til sidst nåede frem til det helt rigtige. Derudover lavede vi også en større model af click systemet, og en rund version af click systemet som er vigtig til når det skal bruges til skinner der skal kunne skifte spor og dreje.
+![Forskellige_clickSystemer](https://github.com/LucasHemm/RoALog/assets/99349701/cb54552b-86ad-41d7-abb6-9c8c98c344ac)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
