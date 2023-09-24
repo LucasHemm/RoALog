@@ -35,6 +35,10 @@ Idag har vi fortsat arbejdet med Click systemet. Der er blevet lavet kode til cl
 19/09:
 Idag har vi arbejdet videre med clicksystemet som er blevet navngivet ClickConnect. Fokus var på at gøre koden pænere ved bl.a. at lave et interface som kan blive brugt i de forskellige klasser.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+22/09:
+Idag er vi blevet delt op i grupper og den indledende brainstorming er gået igang, vi er gået frem og tilbage ift ideer og er gået sammen med en anden gruppe (isak helena og jamie). Oprindeligt var planene at lave en ølk station til tog systemet men efter klassen er gået væk fra tog ideen, er tiden brugt på brainstorming som indtil videre har at gøre med en automatisk vinophælder som bruger en fugtighedsmåler til nodeMCU'en.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
