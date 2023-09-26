@@ -38,6 +38,12 @@ Idag har vi arbejdet videre med clicksystemet som er blevet navngivet ClickConne
 22/09:
 Idag er vi blevet delt op i grupper og den indledende brainstorming er gået igang, vi er gået frem og tilbage ift ideer og er gået sammen med en anden gruppe (isak helena og jamie). Oprindeligt var planene at lave en ølk station til tog systemet men efter klassen er gået væk fra tog ideen, er tiden brugt på brainstorming som indtil videre har at gøre med en automatisk vinophælder som bruger en fugtighedsmåler til nodeMCU'en.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+26/09:
+Idag fortsatte arbejdet på vores projekt. Vi fik gået igang med arbejdet med at 3D printe dele til vores vinophælder. Til vores NodeMCU blev der lavet en holder som gør brug af clickconnect systemet som vi så kan bruge til at sætte på konstruktionen som skal sidde på papvienen og styrer ophældningen. Dette blev gjort i javaCSG. Derudover blev der arbejdet og designet med hvordan det færdige produkt skulle se ud. Vi talte om flere forskellige modeller og endte på en som gør brug af kun 1 servo motor. Vedhæftet sketch er tegnet af Isak.
+![image](https://github.com/LucasHemm/RoALog/assets/99349701/4adc6742-2485-4034-9764-861ffb98e527)
+![image](https://github.com/LucasHemm/RoALog/assets/99349701/8c3b4453-faa7-487e-8d91-747e9ca8f615)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
