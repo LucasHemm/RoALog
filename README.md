@@ -43,8 +43,9 @@ Idag fortsatte arbejdet på vores projekt. Vi fik gået igang med arbejdet med a
 ![image](https://github.com/LucasHemm/RoALog/assets/99349701/4adc6742-2485-4034-9764-861ffb98e527)
 ![image](https://github.com/LucasHemm/RoALog/assets/99349701/8c3b4453-faa7-487e-8d91-747e9ca8f615)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
+29/09:
+Idag arbejdede vi videre på projektet. Der bkev bl.a startet på programmeringen for hvordan fugtighedsmåleren skulle fungere og hvordan vi fik data om der var vådt til når koppen er fyldt. Derudover blev der 3d printet en masse. Både clickere fra clickConnect systemet til at sætte ting sammen blev printet, men også den store kopholder og den ene af 2 dele til at holde fugtighedsmåleren over koppen blev printet. Alle tingene blev printet rigtig fint.
+![Holder](https://github.com/LucasHemm/RoALog/assets/99349701/d139ca3c-b008-44eb-998b-9169e09ae55e)
+![holderMedKop](https://github.com/LucasHemm/RoALog/assets/99349701/3026679a-85c9-40da-82ce-424710eb07b1)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
