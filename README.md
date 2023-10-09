@@ -48,4 +48,7 @@ Idag arbejdede vi videre på projektet. Der bkev bl.a startet på programmeringe
 ![Holder](https://github.com/LucasHemm/RoALog/assets/99349701/d139ca3c-b008-44eb-998b-9169e09ae55e)
 ![holderMedKop](https://github.com/LucasHemm/RoALog/assets/99349701/3026679a-85c9-40da-82ce-424710eb07b1)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3/10:
+Idag fortsatte arbejdet med projektet. Vi fik printet første version af anden del af holderen til at holde fugtighedsmåleren. Derudover fortsatte arbejdet med at få styr på WIFI delen af koden og hvordan krogen til at sidde på tutten af pap vinen kodes i javaCSG.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
