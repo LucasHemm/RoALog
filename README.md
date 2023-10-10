@@ -59,9 +59,11 @@ Vi arbejdede også på første iteration af den spole som skal styre hvor meget 
 ![387328252_1675678926276597_5204718995128764411_n](https://github.com/LucasHemm/RoALog/assets/99349701/c697d9d5-7de0-4746-a02b-518ad52a10c9)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 10/10:
-Idag gik jeg igang med at arbejde på en ny spole
-
-
+Idag gik jeg igang med at arbejde på en ny spole. Efter en snak internt og med tobias havde den nogle mangler som der gjorde at den blev designet ret anderledes. 
+Nu minder den i stedet mere om et hjul hvilket gør den langt mere stabil og gør at den skal bruge mindre kraft for at dreje rundt end version 1.
+![387329004_671514518280927_809669707736760353_n](https://github.com/LucasHemm/RoALog/assets/99349701/e01061b2-5afc-4c5a-b6e6-a5c57ef7d96e)
+![387556192_6646898755427334_2196011522733171549_n](https://github.com/LucasHemm/RoALog/assets/99349701/0d6512e5-e59e-408d-aaed-1a3cec73616a)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
