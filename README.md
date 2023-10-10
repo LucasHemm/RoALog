@@ -53,8 +53,13 @@ Idag fortsatte arbejdet med projektet. Vi fik printet første version af anden d
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 6/10:
 Idag arbejde vi videre med koden og holder til fugtighedshåleren. Designet fra sidst var en godt version 1 som egentlig holdte den okay men manglede en vigtig komponent i at med der ikke var en væg for enden som sikrede at måleren ikke kunne falde ned i vinen. Efter vi fik printet den med en væg var vi egentlig tilfredse med selve holder delen, men efter have sat den sammen med forbinderen til kopholderen var den for høj, så derfor lavede vi en version 3 hvor at clickConnecteren blev sat i den anden ende så holderen lige sad lidt lavere så den perfekt kunne ramme vinen i koppen så den ved hvornår den skal stoppe med at hælde vin.
+-
+Vi arbejdede også på første iteration af den spole som skal styre hvor meget vin der skal komme ud. Dog har vi en del ændringer til en version 2 som der skal arbejdes på næste gang.
+![387334798_1057010215469474_3241442040886679488_n](https://github.com/LucasHemm/RoALog/assets/99349701/afcf10c3-ff5a-484f-8bf7-b11fbb75fe7c)
 ![387328252_1675678926276597_5204718995128764411_n](https://github.com/LucasHemm/RoALog/assets/99349701/c697d9d5-7de0-4746-a02b-518ad52a10c9)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10/10:
+Idag gik jeg igang med at arbejde på en ny spole
 
 
 
