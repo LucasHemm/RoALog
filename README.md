@@ -51,4 +51,12 @@ Idag arbejdede vi videre på projektet. Der bkev bl.a startet på programmeringe
 3/10:
 Idag fortsatte arbejdet med projektet. Vi fik printet første version af anden del af holderen til at holde fugtighedsmåleren. Derudover fortsatte arbejdet med at få styr på WIFI delen af koden og hvordan krogen til at sidde på tutten af pap vinen kodes i javaCSG.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6/10:
+Idag arbejde vi videre med koden og holder til fugtighedshåleren. Designet fra sidst var en godt version 1 som egentlig holdte den okay men manglede en vigtig komponent i at med der ikke var en væg for enden som sikrede at måleren ikke kunne falde ned i vinen. Efter vi fik printet den med en væg var vi egentlig tilfredse med selve holder delen, men efter have sat den sammen med forbinderen til kopholderen var den for høj, så derfor lavede vi en version 3 hvor at clickConnecteren blev sat i den anden ende så holderen lige sad lidt lavere så den perfekt kunne ramme vinen i koppen så den ved hvornår den skal stoppe med at hælde vin.
+![387328252_1675678926276597_5204718995128764411_n](https://github.com/LucasHemm/RoALog/assets/99349701/c697d9d5-7de0-4746-a02b-518ad52a10c9)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 
