@@ -64,6 +64,10 @@ Nu minder den i stedet mere om et hjul hvilket gør den langt mere stabil og gø
 ![387329004_671514518280927_809669707736760353_n](https://github.com/LucasHemm/RoALog/assets/99349701/e01061b2-5afc-4c5a-b6e6-a5c57ef7d96e)
 ![387556192_6646898755427334_2196011522733171549_n](https://github.com/LucasHemm/RoALog/assets/99349701/0d6512e5-e59e-408d-aaed-1a3cec73616a)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13/10:
+Idag var sidste time med RoA. Idag fik jeg lavede en version 3 af spolen som var meget mindre hvilket resulterede i at motoren nu kunne dreje og åbne for papvinen. Vi fik også arbejdet på aller sidste del som skal holde tutten på papvinen nede mens der bliver trukket. Den fik vi printet en version 1 af som ikke helt passede. Ellers så er projektet færdigt. Derudover blev der printet 2 ekstra små spoler hvis nu der skulle ske den 1 noget da væggene på dem er skrøbelige.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
