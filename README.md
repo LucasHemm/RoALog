@@ -67,6 +67,9 @@ Nu minder den i stedet mere om et hjul hvilket gør den langt mere stabil og gø
 13/10:
 Idag var sidste time med RoA. Idag fik jeg lavede en version 3 af spolen som var meget mindre hvilket resulterede i at motoren nu kunne dreje og åbne for papvinen. Vi fik også arbejdet på aller sidste del som skal holde tutten på papvinen nede mens der bliver trukket. Den fik vi printet en version 1 af som ikke helt passede. Ellers så er projektet færdigt. Derudover blev der printet 2 ekstra små spoler hvis nu der skulle ske den 1 noget da væggene på dem er skrøbelige.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+23/10:
+Idag var sidste arbejdsdag på projektet da alt vi manglede var at printe bund pladen som skal holde tutten på papvinsboksen nede imens der blive trukket op i den. Dette blev hurtigt klaret og den færdige demo video af vores projekt ligger her:https://github.com/LucasHemm/RoALog/blob/main/Demo_video.mp4 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
